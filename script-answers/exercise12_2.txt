@@ -1,0 +1,26 @@
+Script started on Sat Apr  1 14:15:01 2023
+[1m[7m%[27m[1m[0m                                                                                 [0m[27m[24m[Jmarcotidu@Marcos-MacBook-Air script-answers % [K[?2004hddocker container run .-i   -it ubunutu   tu bas [Kh[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2Kcd741b12a7ea: Pulling fs layer [1B[1A[2Kcd741b12a7ea: Downloading  277.8kB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  1.392MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  3.078MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  5.303MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  6.417MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  7.809MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  9.198MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading   10.6MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading     12MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  13.67MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  14.79MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  16.18MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  17.86MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  19.25MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  20.65MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  22.05MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  22.88MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  23.99MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading   25.4MB/27.35MB[1B[1A[2Kcd741b12a7ea: Downloading  26.51MB/27.35MB[1B[1A[2Kcd741b12a7ea: Verifying Checksum [1B[1A[2Kcd741b12a7ea: Download complete [1B[1A[2Kcd741b12a7ea: Extracting  294.9kB/27.35MB[1B[1A[2Kcd741b12a7ea: Extracting  8.552MB/27.35MB[1B[1A[2Kcd741b12a7ea: Extracting  18.87MB/27.35MB[1B[1A[2Kcd741b12a7ea: Extracting  25.36MB/27.35MB[1B[1A[2Kcd741b12a7ea: Extracting  27.35MB/27.35MB[1B[1A[2Kcd741b12a7ea: Pull complete [1BDigest: sha256:67211c14fa74f070d27cc59d69a7fa9aeff8e28ea118ef3babc295a0428a6d21
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@e7ffca1e841e: /root@e7ffca1e841e:/# [K]0;root@e7ffca1e841e: /root@e7ffca1e841e:/# ls
+[?2004l[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;34mmedia[0m  [01;34mopt[0m   [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;34mmnt[0m    [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m   [30;42mtmp[0m  [01;34mvar[0m
+[?2004h]0;root@e7ffca1e841e: /root@e7ffca1e841e:/# touch       cd user  r/scr
+[?2004lbash: cd: usr/scr: No such file or directory
+[?2004h]0;root@e7ffca1e841e: /root@e7ffca1e841e:/# cd usr/scr  rc
+[?2004l[?2004h]0;root@e7ffca1e841e: /usr/srcroot@e7ffca1e841e:/usr/src# ls
+[?2004l[?2004h]0;root@e7ffca1e841e: /usr/srcroot@e7ffca1e841e:/usr/src# touch     mikd   kdir app
+[?2004l[?2004h]0;root@e7ffca1e841e: /usr/srcroot@e7ffca1e841e:/usr/src# ls
+[?2004l[0m[01;34mapp[0m
+[?2004h]0;root@e7ffca1e841e: /usr/srcroot@e7ffca1e841e:/usr/src# cd app
+[?2004l[?2004h]0;root@e7ffca1e841e: /usr/src/approot@e7ffca1e841e:/usr/src/app# touch index.js
+[?2004l[?2004h]0;root@e7ffca1e841e: /usr/src/approot@e7ffca1e841e:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@e7ffca1e841e: /usr/src/approot@e7ffca1e841e:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                 [0m[27m[24m[Jmarcotidu@Marcos-MacBook-Air script-answers % [K[?2004heeixt  e exit[?2004l
+
+Script done on Sat Apr  1 14:16:29 2023
